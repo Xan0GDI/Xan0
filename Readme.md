@@ -23,3 +23,5 @@
 # Webcam Grabber:
 
 - [soon]
+
+if you want the passwords to the files send me a friend request on discord `xrxx.v2`
