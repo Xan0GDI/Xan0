@@ -31,6 +31,6 @@ I am not reliable for any damages.
 
 - [soon]
 
-if you want the passwords to the files send me a friend request on discord `xrxx.v2`
+if you want the passwords to the files send me a friend request on discord `.xrxx.v2`
 
 ~Xan0
