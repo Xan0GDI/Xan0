@@ -4,8 +4,13 @@ I finally decided to put some of my private Virusses on the Internet.
 Everything here is for educational purposes only.
 I am not reliable for any damages.
 
+**very important:** Before you run any of this files. Please note that u HAVE TO install python 3.12.2 for it to work and ALWAYS install the requirements first!
+[get python here](https://www.python.org/downloads/)
 
 # GDI Virusses:
+
+**warning**:
+these files are destructive and WILL harm your system! I recommend only running this in a virtual machine.
 
 - V1: [V1 on mega.nz](https://mega.nz/file/m2hn1ISB#uVmN5GxOraBcyGU-LTqcaGQU5QeVjz0DNq9vq6V9Srk)
 - V2 to V6 won´t be released cuz it is not necessary :)
@@ -13,6 +18,7 @@ I am not reliable for any damages.
 
 # Discord Nukebot:
 
+the name says it all
 - Nukebot: [nuke.py](https://github.com/Xan0GDI/Xan0/blob/main/nukebot/nuke.py)
 
 # Random Stuff that I made:
@@ -21,6 +27,7 @@ I am not reliable for any damages.
 
 # Roblox Fake Ban Screen Generator:
 
+u can use this to prank your friends
 - FRB: [FakeRobloxBan.py](https://github.com/Xan0GDI/Xan0/blob/main/roblox%20fake%20ban/editor.py)
 
 # Webcam Grabber:
