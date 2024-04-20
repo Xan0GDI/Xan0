@@ -29,12 +29,16 @@ with open('template.html', 'r') as f:
     html = f.read()
 
 html = html.replace('/set name here/', input('Display name: '))
-verified = input('Do you want to be verified? (y/n): ')
-if verified == 'y':
-    html = html.replace('data-hasverifiedbadge="true"', 'data-hasverifiedbadge="true"')
-else:
-    html = html.replace('data-hasverifiedbadge="true"', 'data-hasverifiedbadge="false"')
-
+try:
+    verified = input('Do you want to be verified? (y/n): ')
+    if verified == 'y':
+        html = html.replace('data-hasverifiedbadge="true"', 'data-hasverifiedbadge="true"')
+    else:
+        html = html.replace('data-hasverifiedbadge="true"', 'data-hasverifiedbadge="false"')
+except:
+  print("select a valid option. idiot.")
+  time.sleep(2)
+  exit()
 date_obj = datetime.now()
 date_str = date_obj.strftime('%m/%d/%Y %I:%M:%S %p (CT)')
 html = html.replace('/set date here/', date_str)
