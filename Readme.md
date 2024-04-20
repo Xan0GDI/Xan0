@@ -21,7 +21,7 @@ I am not reliable for any damages.
 
 # Roblox Fake Ban Screen Generator:
 
-- [soon 👍]
+- FRB: [FakeRobloxBan.py](https://github.com/Xan0GDI/Xan0/blob/main/roblox%20fake%20ban/editor.py)
 
 # Webcam Grabber:
 
