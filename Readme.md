@@ -13,7 +13,7 @@ I am not reliable for any damages.
 
 # Discord Nukebot:
 
-- Nukebot.py: [nuke.py](https://github.com/Xan0GDI/Xan0/blob/main/nukebot/nuke.py)
+- Nukebot: [nuke.py](https://github.com/Xan0GDI/Xan0/blob/main/nukebot/nuke.py)
 
 # Random Stuff that I made:
 
