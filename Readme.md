@@ -1,4 +1,4 @@
-<p align='center'><img src="https://raw.githubusercontent.com/rxod1/Xan0/main/image3.jpg" width=300 /></p>
+<p align='center'><img src="https://github.com/Xan0GDI/Xan0/blob/main/resources/image3.jpg" width=300 /></p>
 
 I finally decided to put some of my private Virusses on the Internet. 
 Everything here is for educational purposes only.
