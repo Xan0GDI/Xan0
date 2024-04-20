@@ -17,7 +17,7 @@ I am not reliable for any damages.
 
 # Random Stuff that I made:
 
-- [will also come soon]
+- some time in the future.. btw [subscribe](https://youtube.com/@Xan0V2)
 
 # Roblox Fake Ban Screen Generator:
 
