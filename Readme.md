@@ -36,4 +36,5 @@ u can use this to prank your friends
 
 if you want the passwords to the files send me a friend request on discord `.xrxx.v2`
 
+I would be happy if you star this repo 🥺 I put a lot of effort into this...
 ~Xan0
