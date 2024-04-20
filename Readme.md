@@ -7,9 +7,9 @@ I am not reliable for any damages.
 
 # GDI Virusses:
 
-- V1: https://mega.nz/file/m2hn1ISB#uVmN5GxOraBcyGU-LTqcaGQU5QeVjz0DNq9vq6V9Srk
+- V1: [V1 on mega.nz](https://mega.nz/file/m2hn1ISB#uVmN5GxOraBcyGU-LTqcaGQU5QeVjz0DNq9vq6V9Srk)
 - V2 to V6 won´t be released cuz it is not necessary :)
-- V7: https://mega.nz/file/XvpFzbyY#Mv5K15v7iWnJY0b4fzaAugpup3sEYJJSmC5cXZ9xfzg
+- V7: [V7 on mega.nz](https://mega.nz/file/XvpFzbyY#Mv5K15v7iWnJY0b4fzaAugpup3sEYJJSmC5cXZ9xfzg)
 
 # Discord Nukebot:
 
