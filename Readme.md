@@ -11,7 +11,7 @@ Also PLEASE add python to PATH!!!
 
 <p align='left'><img src="https://github.com/Xan0GDI/Xan0/blob/main/resources/JUST%20ADD%20IT%20TO%20PATH.png" width=300 /></p>
 
-And befor you do anything with the codes... Read the `setup.md` files or the `tutorial.md` files!
+And before you do anything with the codes... Read the `setup.md` files or the `tutorial.md` files!
 
 # GDI Virusses:
 
