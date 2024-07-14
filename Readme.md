@@ -38,6 +38,7 @@ The other ones are just to mess around and troll. But they are still effective.
 [Get them here](https://mega.nz/folder/ibpC2azD#iS9lGNHBK81T1hP31jUS5w)
 
 I AM NOT RESPONSIBLE FOR ANY DAMAGES CAUSED.
+
 I am just the Creator :)
 
 # Discord Nukebot:
