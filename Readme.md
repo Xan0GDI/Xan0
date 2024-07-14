@@ -41,7 +41,7 @@ u can use this to prank your friends
   get it [HERE](https://github.com/Xan0GDI/Xan0/tree/main/screenrecorder)
 
 
-**the end**
+# ending
 
 I would be happy if you star this repo 🥺 I put a lot of effort into this...
 
