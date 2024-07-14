@@ -15,12 +15,7 @@ And before you do anything with the codes... Read the `setup.md` files or the `t
 
 # GDI Virusses:
 
-**warning**:
-these files are destructive and WILL harm your system! I recommend only running this in a virtual machine.
-
-- V1: [V1 on mega.nz](https://mega.nz/file/m2hn1ISB#uVmN5GxOraBcyGU-LTqcaGQU5QeVjz0DNq9vq6V9Srk)
-- V2 to V6 won´t be released cuz it is not necessary :)
-- V7: [V7 on mega.nz](https://mega.nz/file/XvpFzbyY#Mv5K15v7iWnJY0b4fzaAugpup3sEYJJSmC5cXZ9xfzg)
+**currently not avaliable due to a computer reset and loss of accounts**
 
 # Discord Nukebot:
 
