@@ -1,8 +1,10 @@
 <p align='center'><img src="https://github.com/Xan0GDI/Xan0/blob/main/resources/image3.jpg" width=300 /></p>
 
-I finally decided to put some of my private Virusses on the Internet. 
+I finally decided to put some of my private Projects on the Internet. 
 Everything here is for educational purposes only.
 I am not reliable for any damages.
+
+**PLEASE IF YOU ENCOUNTER ANY ISSUES LET ME KNOW AND ALSO RUN THE FILE IN THE CONSOLE AND TELL ME WHAT IT SAYS SO I CAN FIX THE ISSUES**
 
 **very important:** Before you run any of this files. Please note that u HAVE TO install python 3.12.2 for it to work and ALWAYS install the requirements first!
 [get python here](https://www.python.org/downloads/)
