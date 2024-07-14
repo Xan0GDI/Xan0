@@ -35,6 +35,11 @@ u can use this to prank your friends
 
 - CamGrabber: [CamGrabber(3 Versions)](https://github.com/Xan0GDI/Xan0/tree/main/CamGrabber)
 
+# python - livestream
+
+- a tool to share your screen in python on a webserver using flask
+  get it [HERE](https://github.com/Xan0GDI/Xan0/tree/main/screenrecorder)
+
 if you want the passwords to the files send me a friend request on discord `.xrxx.v2`
 
 I would be happy if you star this repo 🥺 I put a lot of effort into this...
