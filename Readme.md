@@ -18,11 +18,13 @@ And before you do anything with the codes... Read the `setup.md` files or the `t
 **FUN:**
 - Goofy.exe
 - notajumpscare.exe
+  
 **SERIOUS:**
 - fettfish.exe
 - RBUBBLE.exe
 - Xan0V1.exe
 - Xan0V7.exe
+  
 **IDK:**
 - Discowd.exe
 - Wiper.exe
