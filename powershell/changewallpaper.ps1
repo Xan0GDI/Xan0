@@ -1,5 +1,5 @@
 # Define the Imgur URL of the image
-$imgurUrl = "https://media.istockphoto.com/id/1312279433/de/foto/schwarzer-computerbildschirm-mit-gr%C3%BCnem-text-roter-textfeldzugriff-in-der-mitte-verweigert.jpg?s=612x612&w=0&k=20&c=Vt0yS8Zushgbmy3SBm3XXnhn4_h4nXKWsvdP5yFw7lw="  # Replace with your Imgur image URL
+$imgurUrl = "https://i.imgur.com/DRmh6S9.jpeg"  # Replace with your Imgur image URL
 
 # Define the local path where the image will be saved
 $localPath = "$env:TEMP\wallpaper.jpg"
