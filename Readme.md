@@ -50,10 +50,6 @@ I AM NOT RESPONSIBLE FOR ANY DAMAGES CAUSED.
 u can use this to prank your friends
 - FRB: [FakeRobloxBan.py](https://github.com/Xan0GDI/Xan0/blob/main/roblox%20fake%20ban/editor.py)
 
-# Webcam Grabber:
-
-- CamGrabber: [CamGrabber(3 Versions)](https://github.com/Xan0GDI/Xan0/tree/main/CamGrabber)
-
 # python - livestream
 
 - a tool to share your screen in python on a webserver using flask
