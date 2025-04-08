@@ -41,13 +41,6 @@ The other ones are just to mess around and troll. But they are still effective.
 
 I AM NOT RESPONSIBLE FOR ANY DAMAGES CAUSED.
 
-I am just the Creator :)
-
-# Discord Nukebot:
-
-the name says it all
-- Nukebot: [nuke.py](https://github.com/Xan0GDI/Xan0/blob/main/nukebot/nuke.py)
-
 # Random Stuff that I made:
 
 - some time in the future.. btw [subscribe](https://youtube.com/@Xan0V2)
